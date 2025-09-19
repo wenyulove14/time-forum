@@ -2,7 +2,7 @@
   "name": "时之论坛",
   "short_name": "时之论坛",
   "description": "The Forum of the Time - 一个为《刀剑乱舞》世界观设计的论坛应用",
-  "start_url": "./html-artifact24.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#EAE7DE",
   "theme_color": "#FFFFFF",
